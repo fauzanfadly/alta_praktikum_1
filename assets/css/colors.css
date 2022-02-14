@@ -1,0 +1,12 @@
+@import "style.css";
+
+:root {
+  --dark_purple1: rgb(129, 79, 177);
+
+  --light_purple1: rgb(240, 225, 255);
+
+  --purple1: rgb(175, 105, 239);
+  --purple2: rgb(215, 172, 255);
+  --purple3: rgb(228, 205, 249);
+
+}
